@@ -50,7 +50,7 @@ U 1 1 59860B95
 P 1500 2200
 F 0 "J1" H 1100 3650 50  0000 L CNN
 F 1 "Power" H 1900 3650 50  0000 R CNN
-F 2 "Ratfink_Connectors_USB:USB_C_Receptacle_Amphenol_12401548E4-2A" H 1650 2200 50  0001 C CNN
+F 2 "Ratfink_Connectors_USB:USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles" H 1650 2200 50  0001 C CNN
 F 3 "" H 1650 2200 50  0001 C CNN
 	1    1500 2200
 	1    0    0    -1  
@@ -325,7 +325,7 @@ U 1 1 59860C73
 P 1500 5700
 F 0 "J2" H 1100 7150 50  0000 L CNN
 F 1 "UFP" H 1900 7150 50  0000 R CNN
-F 2 "Ratfink_Connectors_USB:USB_C_Receptacle_Amphenol_12401548E4-2A" H 1650 5700 50  0001 C CNN
+F 2 "Ratfink_Connectors_USB:USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles" H 1650 5700 50  0001 C CNN
 F 3 "" H 1650 5700 50  0001 C CNN
 	1    1500 5700
 	1    0    0    -1  
