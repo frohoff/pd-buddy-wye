@@ -2,8 +2,8 @@
 
 Power/data splitter for PD Buddy Sink.
 
-This PCB must be 0.8 mm thick for the USB Type-C plug to fit in place.  Use
-2 oz copper to ensure the board can carry lots of current with ease.
+This PCB must be 0.6 mm thick so the USB Type-C card edge receptacles work.
+Copper thickness can be 1 or 2 oz, ENIG finish preferred.
 
 The PCB is made with [KiCad][], so you'll need that if you want to make any
 changes.  Several PCB fabricators accept KiCad PCB files directly now, but if
@@ -22,5 +22,5 @@ libraries.
 
 ## License
 
-PD Buddy Wye is Copyright (C) 2017 Clayton G. Hobbs, and made available under
-the CERN Open Hardware Licence v1.2.  See LICENSE for more information.
+PD Buddy Wye is Copyright (C) 2017-2018 Clayton G. Hobbs, and made available
+under the CERN Open Hardware Licence v1.2.  See LICENSE for more information.
